@@ -1,0 +1,44 @@
+﻿html {
+font-family:sans-serif;
+}
+.webpage {
+position:relative;
+padding-top:120px;
+}
+body {
+color:#333538;
+font-family:"proxima-nova", sans-serif;
+}
+html, body {
+height:100%;
+width:100%;
+}
+.row {
+border:none;
+}
+.description {
+font-weight:100;
+line-height:1.5;
+}
+.pill_new {
+margin-right:8px;
+}
+.pill {
+background-color:#4BC0C0;
+padding:8px;
+font-size:0.87rem;
+vertical-align:middle;
+display:inline-block;
+color:#fff;
+border-radius:8px;
+}
+
+canvas {
+display:block;
+vertical-align:baseline;
+}
+
+* {
+margin:0;
+padding:0;
+}

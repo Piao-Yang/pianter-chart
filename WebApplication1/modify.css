@@ -1,0 +1,39 @@
+﻿@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+
+    .col-lg-6 {
+        float: left;
+    }
+
+    .col-lg-6 {
+        width: 50%;
+    }
+}
+@media (min-width: 992px) and (max-width:1200px){
+    .container {
+        max-width: 970px;
+    }
+
+    .col-md-6 {
+        float: left;
+    }
+
+    .col-md-6 {
+        width: 50%;
+    }
+}
+@media (min-width: 768px) and (max-width:992px) {
+    .container {
+        max-width: 750px;
+    }
+
+    .col-sm-6 {
+        float: left;
+    }
+
+    .col-sm-6 {
+        width: 50%;
+    }
+}
