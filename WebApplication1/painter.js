@@ -1,6 +1,6 @@
 ﻿
 /*--canvas--*/
-function Canvas(id,width,height)
+function Canvas(id)
 {
     this.id = id;
     console.log(this.id);
